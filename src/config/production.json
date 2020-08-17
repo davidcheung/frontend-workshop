@@ -1,0 +1,5 @@
+{
+    "appName": "zeroworkshop",
+    "environment": "production",
+    "backendURL": "https://api-workshop-prod.cmt.dev"
+}
